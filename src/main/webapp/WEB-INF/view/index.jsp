@@ -2,8 +2,18 @@
 <html>
 <head>
     <title>Java Trainer</title>
+    <style>
+        .letter {
+            color: red; /* Цвет символа */
+            font-size: 200%; /* Размер шрифта */
+        }
+        p {
+            color: rgb(49, 151, 116); /* Цвет текста */
+        }
+    </style>
 </head>
 <body>
-<h1>Добро пожаловать на тест по JAVA</h1>
+<h1><p>Изменил страницу для выполнения второй части задания</p></h1><br>
+<span class="letter">all right recerved by Oleg_S</span>
 </body>
 </html>
