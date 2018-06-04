@@ -84,7 +84,15 @@
             <version>1.2</version>
         </dependency>
 
-        <!-- Groovy -->
+        <!--Tomcat 8.5.31-->
+        <!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-core -->
+            <dependency>
+                <groupId>org.apache.tomcat.embed</groupId>
+                <artifactId>tomcat-embed-core</artifactId>
+                <version>8.5.31</version>
+            </dependency>
+
+          <!-- Groovy -->
 <!--        <dependency>
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
